@@ -1,3 +1,5 @@
+package Esercizio1;
+
 public class UtilityRettangoli {
 
     public static void stampaRettangolo(Rettangolo r) {
